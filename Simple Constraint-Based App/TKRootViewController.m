@@ -22,7 +22,7 @@
 
 //
 //
-// Setting Up Layout
+// Setting Up Layout - Part 2
 //
 //
 
