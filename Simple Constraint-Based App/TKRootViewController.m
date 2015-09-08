@@ -10,9 +10,7 @@
 
 @interface TKRootViewController ()
 
-@property (nonatomic, weak) UIView *containerView;
 @property (nonatomic, weak) UIButton *button;
-@property (nonatomic, weak) UILabel *label;
 
 @end
 
@@ -22,14 +20,11 @@
 
 //
 //
-// Setting Up Layout
+// Setting Up Layout - Part 1
 //
 //
 
 
-//
-// Start Part 1
-//
 
 - (void)viewDidLoad
 {
@@ -83,9 +78,6 @@
 }
 
 
-//
-// End Part 1
-//
 
 
 @end
